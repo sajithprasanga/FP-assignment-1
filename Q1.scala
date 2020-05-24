@@ -1,4 +1,4 @@
-object Temperature{
+object Q1{
 	def main(args:Array[String])
 	{
 		
