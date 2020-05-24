@@ -1,5 +1,5 @@
 import scala.math.pow
-object Volume{
+object Q2{
 	def main(args:Array[String])
 	{
 		print("Enter radius: ");
