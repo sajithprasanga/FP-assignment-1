@@ -1,4 +1,4 @@
-object total{
+object Q3{
 	def main(args:Array[String]){
 		var covpri = 24.95;
 		var dis = 24.95-(24.95*0.4);
